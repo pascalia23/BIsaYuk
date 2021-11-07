@@ -1274,7 +1274,6 @@ C:\Front\UTS\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Front\UTS\obj\Debug\net5.0\scopedcss\bundle\Blazor344.styles.css
 C:\Front\UTS\obj\Debug\net5.0\scopedcss\projectbundle\Blazor344.bundle.scp.css
 C:\Front\UTS\obj\Debug\net5.0\Blazor344.RazorTargetAssemblyInfo.cache
-C:\Front\UTS\obj\Debug\net5.0\Blazor344.csproj.CopyComplete
 C:\Front\UTS\obj\Debug\net5.0\Blazor344.dll
 C:\Front\UTS\obj\Debug\net5.0\ref\Blazor344.dll
 C:\Front\UTS\obj\Debug\net5.0\Blazor344.pdb
